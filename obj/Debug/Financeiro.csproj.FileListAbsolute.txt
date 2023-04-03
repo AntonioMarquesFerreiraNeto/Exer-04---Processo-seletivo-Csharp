@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.exe.config
+C:\Users\anton\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.exe
+C:\Users\anton\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.pdb
+C:\Users\anton\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.exe
+C:\Users\anton\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
